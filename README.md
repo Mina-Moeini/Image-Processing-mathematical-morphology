@@ -28,3 +28,9 @@ It highlights the boundaries of objects in the image.
 The structuring element is a small shape or pattern used in dilation and erosion operations.
 It defines the neighborhood around each pixel that is considered during the operation.
 Mathematical morphology is widely used in image processing tasks such as noise reduction, object detection, image segmentation, and feature extraction. It provides a powerful set of tools for analyzing and manipulating the structure of images based on the spatial arrangement of pixel values.
+
+## 🔗 Contact
+
+|||
+|-|-|
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.moeini67@gmail.com) |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-moeini)
